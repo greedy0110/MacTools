@@ -8,7 +8,7 @@
 ### Productivity
 - [ticktick](https://apps.apple.com/kr/app/ticktick-to-do-list-calendar/id966085870?l=en&mt=12)
 - [kakaotalk](https://apps.apple.com/kr/app/kakaotalk/id869223134?l=en&mt=12)
-- [slack 설치](https://apps.apple.com/kr/app/slack-for-desktop/id803453959?l=en&mt=12)
+- [slack](https://apps.apple.com/kr/app/slack-for-desktop/id803453959?l=en&mt=12)
 
 ### Version Control
 - [fork](https://git-fork.com/)
