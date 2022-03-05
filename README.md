@@ -1,4 +1,4 @@
-# What I use for my personal pc
+# What I use for my pc
 
 ### Mac Utility
 - [homebrew](https://brew.sh/)
